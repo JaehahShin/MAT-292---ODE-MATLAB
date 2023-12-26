@@ -13,7 +13,7 @@
 %
 %%
 % 
-%  Student Number: 1008851137
+%  Student Number: 
 %
 %% Using symbolic variables to define functions
 % In this exercise we will use symbolic variables and functions.
