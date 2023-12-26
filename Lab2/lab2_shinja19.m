@@ -20,7 +20,7 @@
 %% Student Information
 % Student Name: Jaehah Shin
 % 
-% Student Number: 1008851137
+% Student Number:
 %% Set up an inline function representation of an ODE and solve it
 % MATLAB has many built in routines for solving differential equations of the 
 % form
