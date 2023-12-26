@@ -17,7 +17,7 @@
 %
 %%
 % 
-%  Student Number: 1008851137
+%  Student Number: 
 %
 %% Iode for Second-Order Linear DEs with constant coefficients
 % In the |iode| menu, select the |Second order linear ODEs| module. It opens 
