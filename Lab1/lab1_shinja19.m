@@ -21,7 +21,7 @@
 %% Student Information
 % Student Name: Jaehah Shin
 % 
-% Student Number: 1008851137
+% Student Number: 
 %% Creating Vectors Explicitly
 % MATLAB plots vectors (also known as arrays) of data points. The first way 
 % to create vectors is to give MATLAB a list of values of the form:
