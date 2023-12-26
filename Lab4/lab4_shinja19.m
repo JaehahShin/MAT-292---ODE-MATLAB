@@ -19,7 +19,7 @@
 %
 %%
 % 
-%  Student Number: 1008851137
+%  Student Number: 
 %
 %% Exercise 1
 % Objective: Write your own ODE system solver using the Heun/Improved Euler 
