@@ -15,7 +15,7 @@
 %% Student Information
 % Student Name: Jaehah Shin
 % 
-% Student Number: 1008851137
+% Student Number: 
 %% Creating new functions using m-files.
 % Create a new function in a separate m-file:
 % 
